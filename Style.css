@@ -1,0 +1,17 @@
+h1{
+    color:rgb(42, 27, 246);
+  
+}
+.Menu{
+    border:solid;
+    background-color:rgb(255, 175, 179);
+    display: flex;
+    justify-content:space-between ;
+}
+.Heading{
+    color:gold;
+    border:solid;
+    background-color:rgb(249, 72, 255);
+    display: flex;
+    justify-content:space-between ;
+}
